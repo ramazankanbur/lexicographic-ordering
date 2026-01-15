@@ -2,6 +2,8 @@
 
 A simple React app demonstrating lexicographic ordering with drag-and-drop functionality.
 
+![Demo](images/lexi.gif)
+
 ## Features
 
 - Drag and drop items to reorder
